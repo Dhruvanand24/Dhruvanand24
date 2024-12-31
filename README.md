@@ -15,11 +15,12 @@
 <img align="right" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding"/>
 
 ### 🚀 About Me
-- 🔭 I'm currently working on [Iris-Android](https://github.com/nerve-sparks/iris_android)
-- 🌱 I'm currently learning **[Android/Android-Studio]**
-- 👯 Looking to collaborate on innovative projects
-- 💬 Ask me about **Python, JavaScript, Node.js, React, Svelte**
-- 📫 How to reach me: [ananddhruv475@gmail.com]
+- 🔭 I'm currently working on [Iris-Android](https://github.com/nerve-sparks/iris_android)  
+- 🌱 I'm currently learning **[Android/Android-Studio]**  
+- 👯 Looking to collaborate on innovative projects  
+- 💬 Ask me about **Python, JavaScript, Node.js, React, Svelte**  
+- 📫 How to reach me: [ananddhruv475@gmail.com]  
+- 🌐 Check out my portfolio: [Portfolio](https://portfolio-ten-gamma-47.vercel.app/)  
 
 ### 🤝 Connect with Me
 <p align="left">
